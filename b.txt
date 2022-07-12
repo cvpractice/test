@@ -1,3 +1,0 @@
-This is a test file
-Adding second line to this file
-Adding third line to this file
